@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "firstName": "Anna",
+        "lastName": "Schmidt",
+        "email": "anna.schmidt@example.com",
+        "phone": "+49 123 456789",
+        "city": "Berlin",
+        "status": "Aktiv",
+        "birthday": "1990-01-01"
+    },
+    {
+        "id": 2,
+        "firstName": "Max",
+        "lastName": "Müller",
+        "email": "max.mueller@example.com",
+        "phone": "+49 987 654321",
+        "city": "München",
+        "status": "Inaktiv",
+        "birthday": "1985-05-15"
+    },
+    {
+        "id": 3,
+        "firstName": "Julia",
+        "lastName": "Fischer",
+        "email": "julia.fischer@example.com",
+        "phone": "+49 555 123456",
+        "city": "Hamburg",
+        "status": "Aktiv",
+        "birthday": "1992-08-25"
+    },
+    {
+        "id": 4,
+        "firstName": "Lukas",
+        "lastName": "Weber",
+        "email": "lukas.weber@example.com",
+        "phone": "+49 222 333444",
+        "city": "Köln",
+        "status": "In Bearbeitung",
+        "birthday": "1988-12-12"
+    }
+]
